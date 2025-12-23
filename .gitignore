@@ -1,0 +1,9 @@
+# Ignorar arquvivos copilados   
+*.class
+out/
+bin/
+
+# Ignorar pastas de IDE
+.idea/
+.vscode/
+*.iml
