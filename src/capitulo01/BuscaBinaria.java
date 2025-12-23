@@ -1,4 +1,4 @@
-package anotacoes.capitulo01;
+package src.capitulo01;
 
 public class BuscaBinaria {
 
